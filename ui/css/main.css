@@ -1,0 +1,31 @@
+@import './reset.css';
+
+.menu {
+    height: 100vh;
+    width: 15vw;
+    background-color: dimgrey;
+    float: left;
+    font-size: 5vmin
+}
+
+.content {
+    height: 100%;
+    width: auto;
+    background-color: aqua;
+    float: none;
+    font-size: 5vmin
+}
+
+.header {
+    height: auto;
+    width: auto;
+    background-color: darkgrey;
+    float: top;
+}
+
+.extra {
+    height: 100vh;
+    width: 10vw;
+    background-color: coral;
+    float: right;
+}
